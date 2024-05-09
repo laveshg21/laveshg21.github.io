@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Lavesh Gupta # your name (or website title) here
+logo: "/images/dp.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello! I'm an Electrical Engineering undergrad at IIT Kanpur. Presently, I am in my third year of college. 
   <br><br>
-  Second description 
+  I am interested in programming, finance, and machine learning. Currently, I'm learning Data Structures & Algorithms. Thank you for visiting! 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/lavesh-gupta/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-PGK07RWDPW # your Google Analytics tracking ID here
